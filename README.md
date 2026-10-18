@@ -1,6 +1,6 @@
 # Finance Project Portfolio — Mia Becker-Cooper
 
-MSc in Finance (ESADE) · CEMS MIM (ESADE / Copenhagen Business School) · BEng Mechanical Engineering
+MSc in Finance (ESADE) · CEMS MIM (ESADE / Copenhagen Business School) · BEng Mechanical Engineering (University of Bristol)
 
 I'm an engineer who moved into finance, and I like building things that work. This repository collects the strongest projects from my Master's: a systematic long-short strategy, a live trading competition, equity valuations, derivatives pricing and portfolio construction for private clients.
 
@@ -20,6 +20,7 @@ Most of these are team projects. Each folder credits the full team and states my
 | 08 | [Private client portfolio](08-private-client-portfolio/) | Wealth management | Multi-asset ETF portfolio for a UHNW client; E(R) 10.0%, Sharpe 1.12 vs 0.84 benchmark |
 | 09 | [Swiss single-family office portfolio](09-swiss-family-office-portfolio/) | Wealth management | CHF 500M long-term allocation with a CHF 5M/yr liquidity need |
 | 10 | [Central banks: Fed vs ECB](10-central-banks-fed-vs-ecb/) | Macro | Policy divergence, flight to safety, Peru case study |
+| 11 | [Two-week trading challenge](11-two-week-trading-challenge/) | Trading / derivatives | 4th place; +13.4% on a 100k futures account in two weeks |
 
 Code for project 01 lives in its own repository: [substrate-capital-backtest](https://github.com/miabeckercooper/substrate-capital-backtest).
 

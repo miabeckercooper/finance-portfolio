@@ -1,6 +1,6 @@
 # Investing into Capital Markets — A Swiss Single-Family Office
 
-**ESADE MSc Finance · Study Tour · January 2026**
+**University of St. Gallen · Investing in Capital Markets (ESADE MSc Finance study tour) · January 2026**
 **Group 4:** Mia Becker-Cooper · Pablo Diez Venegas · Simone Fortunato · Gerard Alexander Merino Gonzalez · Yash Khandai
 
 ![Cover](preview.png)
